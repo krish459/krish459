@@ -1,18 +1,18 @@
-## Hi there 👋
+## Hi there, I am Krish Shah 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611y5c97be3c8nkpeilquvhr186471wsue1b3ruijd3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
-
+---
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Stuffs.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/krish-shah-667337218")
+- :mailbox:How to reach me: [![Linkedin Badge]]("www.linkedin.com/in/krish-shah-667337218")
 
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -53,6 +53,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krish459&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish459&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
